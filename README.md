@@ -23,24 +23,22 @@
 ## Gereksinimler
 
 Bu proje için aşağıdaki yazılım ve kütüphaneler gereklidir:
-
-- Python 3.8 veya üzeri
-- PyQt5
-- OpenCV
-- PyTorch
-- [TTS API](https://github.com/coqui-ai/TTS)
-- Google Generative AI Kitaplığı
+- ***********************
+- environment_uc.yaml ve environment-stant_son.yaml paketlerini conda ile kurduğunuz taktirde başka bir işleme gerek kalmayacaktır.
+- ************************
+- Gereksinimlerin hepsi .yaml kaynaklarında mevcuttur ekstra bir kurulum gerektirmez.
 
 ## Kurulum
 
 1. **Gereksinimleri Yükleme**:
    - Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
-     ```bash
-     pip install -r requirements.txt
-     ```
+   - conda env create -f environment_uc.yaml
+   - conda env create -f environment-stant_son.yaml
+   - QfAI.py'ı stant_son environment'ında çalıştırdığınıza emin olun.
+   - uc environment'ı .bat dosyalarının çalışması içindir sadece kurmanız yeterli farklı bir işlem yapmanıza gerek yok. 
 
 2. **API Key Ayarları**:
-   - `config.json` dosyasına Google Gemini API anahtarınızı girin veya uygulama içerisinden API-Key ayarlarını yapın.
+   - Uygulama içerisinden API-Key ayarlarını yapın.
 
 3. **Karakter Veritabanı**:
    - Uygulama, karakter bilgilerini `characters.json` dosyasında saklar. Dosya mevcut değilse, ilk çalıştırmada otomatik oluşturulur.
@@ -59,7 +57,7 @@ Bu proje için aşağıdaki yazılım ve kütüphaneler gereklidir:
    - Karakter seçimi yapıp, alt kısımdaki metin alanına sorgunuzu yazın ve `Çalıştır` butonuna tıklayın.
 
 4. **Videoyu Oynatma**:
-   - Uygulama, dudak senkronizasyonu yapılmış videoyu oluşturur ve otomatik oynatır.
+   - Uygulama, yüklediğiniz ses dosyasını klonlayarak Gemini'den aldığı çıktıya klon seslendirme ve dudak senkronizasyonu yaparak videoyu oluşturur ve otomatik oynatır.
 
 ## Dosya Yapısı
 
