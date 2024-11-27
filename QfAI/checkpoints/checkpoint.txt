@@ -1,0 +1,5 @@
+--------------------------------
+Download this link and extract the .pth file to "/checkpoint" folder.
+Bağlantıyı indirin ve .pth dosyasını "/checkpoint" klasörüne çıkartın.
+--------------------------------
+https://iiitaphyd-my.sharepoint.com/personal/radrabha_m_research_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fradrabha_m_research_iiit_ac_in%2FDocuments%2FWav2Lip_Models%2Fwav2lip%2Epth&parent=%2Fpersonal%2Fradrabha_m_research_iiit_ac_in%2FDocuments%2FWav2Lip_Models&ga=1
