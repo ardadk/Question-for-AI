@@ -42,7 +42,8 @@ Bu proje için aşağıdaki yazılım ve kütüphaneler gereklidir:
 
 3. **Karakter Veritabanı**:
    - Uygulama, karakter bilgilerini `characters.json` dosyasında saklar. Dosya mevcut değilse, ilk çalıştırmada otomatik oluşturulur.
-
+4. **Model İndirme**:
+   - Model kurulumu için checkpoints klasöründeki checkpoint.txt dosyasına göz atın.  
 ## Kullanım
 
 1. **Uygulamayı Çalıştırma**:
