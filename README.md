@@ -82,8 +82,15 @@ Katkıda bulunmak için lütfen aşağıdaki adımları takip edin:
 
 ---
 
-### İletişim
+### Geliştiriciler
 Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin.
+
+**Arda Demirkıran**
+https://www.linkedin.com/in/arda-demirkıran-14a73328a/?originalSubdomain=tr
+
+**Niyazi Mert Işıksal**
+https://www.linkedin.com/in/niyazi-mert-isiksal-8b7920281/?originalSubdomain=tr
+
 
 
 ![Ekran görüntüsü 2024-11-28 201131](https://github.com/user-attachments/assets/8ac887d8-7e01-4879-82be-a851909ffd9f)
