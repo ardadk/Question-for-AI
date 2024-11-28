@@ -84,3 +84,11 @@ Katkıda bulunmak için lütfen aşağıdaki adımları takip edin:
 
 ### İletişim
 Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin.
+
+
+![Ekran görüntüsü 2024-11-28 201131](https://github.com/user-attachments/assets/8ac887d8-7e01-4879-82be-a851909ffd9f)
+
+
+https://github.com/user-attachments/assets/edc110d5-cd02-4acb-af9b-80e748b2070c
+
+
